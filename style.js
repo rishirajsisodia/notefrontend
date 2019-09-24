@@ -5,7 +5,7 @@ var page=document.getElementById("box");
 var text=document.getElementById("text");
 
 function setDark(){
-document.body.style.background="url('dark.jpg')";
+document.body.style.background="#000";
 document.body.style.backgroundRepeat="no-repeat";
 document.body.style.backgroundPosition="center";
 //document.body.style.backgroundOrigin="content-box";
